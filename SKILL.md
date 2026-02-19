@@ -4,7 +4,7 @@ description: Trace beliefs, values, or moral claims back to their origins to rev
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4076
+  version: 1.0.4077
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - genealogical-analysis
